@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "The Fundamental Voter: American Electoral Democracy, 1952-2020"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/fundamentalvoter
+excerpt: 'Why is American politics so intense and emotionally competitive today, and how did we get here? In The Fundamental Voter, we explain why the notion that we are divided into tribal loyalties is, at best, only partially correct, and discuss how the divisions rest on much more substantive politics than they once did. In the 1950s and 1960s.'
+date: 2024-06-11
+venue: 'Oxford University Press'
+paperurl: 'https://global.oup.com/academic/product/the-fundamental-voter-9780197745489?cc=us&lang=en&'
+citation: 'Aldrich, J.H., Bae, S., & Sanders, B.K. (2024). <i>The Fundamental Voter: American Electoral Democracy, 1952-2020</i>, Oxford: Oxford University Press.' 
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
