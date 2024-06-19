@@ -2,10 +2,20 @@
 permalink: /teaching/
 title: "Teaching"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-RBSI 
----
+<h1>{{ page.title }}</h1>
+<p>Welcome to my teaching page. Here you will find information about my courses and other teaching-related activities.</p>
+
+<!-- Example content, replace with your own -->
+<h2>RBSI</h2>
+<p>This is a brief description of the RBSI course.</p>
+
+<!-- Loop through the teaching items and display them -->
+{% for post in site.teaching reversed %}
+  <div class="teaching-item">
+    <h2>{{ post.title }}</h2>
+    <p>{{ post.excerpt }}</p>
+    <p><em>{{ post.date | date: "%B %d, %Y" }}</em></p>
+  </div>
+{% endfor %}
