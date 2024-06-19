@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Suhyen Bae / Personal Site"
+title                    : "Suhyen Bae"
 title_separator          : "-"
 name                     : &name "Suhyen Bae"
 description              : &description "Ph.D. Candidate"
