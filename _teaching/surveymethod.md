@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course TA"
 permalink: /teaching/surveymethod
 venue: "Duke University"
-date: 2023 Fall
+date: 2023-08-31
 location: "Durham, NC"
 ---
 
