@@ -4,7 +4,7 @@ collection: teaching
 type: "Methods Course TA"
 permalink: /teaching/rbsi
 venue: "Duke University"
-date: 2024 Summer
+date: 2024-05-27
 location: "Durham, NC"
 ---
 
