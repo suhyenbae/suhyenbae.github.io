@@ -64,6 +64,8 @@
       <p><a href=" {{ post.paperurl }} ">Download Paper</a></p>
     {% elsif post.slidesurl %}
       <p>Download <a href="{{ post.slidesurl }}">Download Slides</a></p></p>
+    {% elsif post.book %}
+      <p><a href="{{ post.book }}">Link to Book</a></p>
     {% endif %}
 
   </article>
