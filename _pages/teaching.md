@@ -18,7 +18,7 @@ author_profile: true
 
 ## Certificate in College Teaching
 + Completed requirements towards Duke's [Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching/)
-+ [Kenan Institute of Ethics Teaching on Purpose Fellow] (https://kenan.ethics.duke.edu/teaching-on-purpose/#:~:text=Teaching%20on%20Purpose%20brings%20doctoral,will%20help%20their%20students%20flourish.) 
++ [Kenan Institute of Ethics Teaching on Purpose Fellow](https://kenan.ethics.duke.edu/teaching-on-purpose/#:~:text=Teaching%20on%20Purpose%20brings%20doctoral,will%20help%20their%20students%20flourish) 
 + Participated in Teaching Triangles to observe and be observed as an instructor 
 
 ## Duke Bass Digital Education Fellow
