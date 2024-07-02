@@ -113,7 +113,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification : <meta name="google-site-verification" content="Er1YX24co-VXI6HzCL4HrXW1QEMCIgwv6k1S1IPt2gE" />
+google_site_verification : "Er1YX24co-VXI6HzCL4HrXW1QEMCIgwv6k1S1IPt2gE"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -137,9 +137,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          :
+    tracking_id          : <meta name="google-site-verification" content="Er1YX24co-VXI6HzCL4HrXW1QEMCIgwv6k1S1IPt2gE" />
 
 
 # Reading Files
