@@ -140,7 +140,9 @@ analytics:
   provider               :  "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          : <meta name="google-site-verification" content="Er1YX24co-VXI6HzCL4HrXW1QEMCIgwv6k1S1IPt2gE" />
-
+  provider               : "custom"
+  google:
+    tracking_id          : google-site-verification=3h9J4SuATtQ3mETuztt0kVdSDcFEwN0H3b8JloQxDDQ
 
 # Reading Files
 include:
