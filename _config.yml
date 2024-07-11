@@ -143,6 +143,15 @@ analytics:
   provider               : "custom"
   google:
     tracking_id          : google-site-verification=3h9J4SuATtQ3mETuztt0kVdSDcFEwN0H3b8JloQxDDQ
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QJ96E59HW4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QJ96E59HW4');
+</script>
 
 # Reading Files
 include:
