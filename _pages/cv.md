@@ -14,7 +14,7 @@ redirect_from:
 <iframe
 	src="/file/CV_Bae_Duke_080824_onlineversion.pdf"
 	width="100%"
-	height="100%"
+	height="600px"
 	style="border:none"
 	title="Embedded PDF Viewer"
 ></iframe>
