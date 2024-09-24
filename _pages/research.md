@@ -18,8 +18,7 @@ Why is American politics so intense and emotionally competitive today, and how d
 
 ## Working Papers and Drafts
 
-* **The Fundamentals and Affective Polarization: How Long-
-Term Attitudes Shape Affect** with John H. Aldrich.
+* **The Fundamentals and Affective Polarization: How Long-Term Attitudes Shape Affect** with John H. Aldrich.
 <a class="btn" href='/files/APSA_Aldrich-Bae_Affective Polarization.pdf'> Draft </a> <a class="btn" href="/files/APSA_2024_Fundamentals-9.pdf"> Slides </a> 
 
 * **Alone yet Aware: How Situational Loneliness Increases Resilience to Misinformation** (Draft available upon request)
