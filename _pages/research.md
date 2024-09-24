@@ -20,7 +20,7 @@ author_profile: true
 
 * **The Fundamentals and Affective Polarization: How Long-
 Term Attitudes Shape Affect** with John H. Aldrich.
-<a class="btn" href="https://www.dropbox.com/scl/fi/8fdacyj53vocchhg7ae9a/APSA_Aldrich-Bae_Affective-Polarization.pdf?rlkey=v74cuw331s52wjsbfnxgtsdyx&dl=0"> Draft </a> <a class="btn" href="https://www.dropbox.com/scl/fi/gkejavvzzqc3siw72fa5t/APSA_2024_Fundamentals-9.pdf?rlkey=lln93tveo5dogrowzrfcssc3o&dl=0"> Slides </a> 
+<a class="btn" href='/files/APSA_Aldrich-Bae_Affective Polarization.pdf'> Draft </a> <a class="btn" href="/files/APSA_2024_Fundamentals-9.pdf"> Slides </a> 
 
 * **Alone yet Aware: How Situational Loneliness Increases Resilience to Misinformation** (Draft available upon request)
   
