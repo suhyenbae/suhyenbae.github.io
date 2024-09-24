@@ -24,6 +24,8 @@ Term Attitudes Shape Affect** with John H. Aldrich.
 
 * **Alone yet Aware: How Situational Loneliness Increases Resilience to Misinformation** (Draft available upon request)
   
-* **Loneliness and Political Discontent, and Political Participation: Chronic Loneliness and
+* **Loneliness, Political Discontent, and Political Participation: Chronic Loneliness and
 Turnout in the U.K.** 
 (Draft available upon request)
+
+* **Do Disagreeable Political Discussion Networks Enhance Political Knowledge?** (Draft available upon request)
