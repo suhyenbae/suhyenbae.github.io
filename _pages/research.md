@@ -30,3 +30,5 @@ Turnout in the U.K.**
 (Draft available upon request)
 
 * **Do Disagreeable Political Discussion Networks Enhance Political Knowledge?** (Draft available upon request)
+
+You can also find my articles on my Google Scholar profile
