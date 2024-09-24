@@ -9,6 +9,7 @@ author_profile: true
 
 * **The Fundamental Voter: American Electoral Democracy, 1952-2020** with John H. Aldrich and Bailey K. Sanders. _Oxford University Press_. <a class="btn" href = "https://academic.oup.com/book/57378"> Link to Book </a>
 
+Why is American politics so intense and emotionally competitive today, and how did we get here? In _The Fundamental Voter_, we explain why the notion that we are divided into tribal loyalties is, at best, only partially correct, and discuss how the divisions rest on much more substantive politics than they once did.
 
 ## Work Under Review
 
