@@ -6,7 +6,7 @@ author_profile: true
 
 ## Lab Instructor
 #### Ralph Bunche Summer Institute, Duke University, Summer 2023, 2024 
-+ Lab Example Materials: <a class="btn" href='/files/lab2.html'> Lab 2; </a> <a class="btn" href="/files/lab3.html"> Lab 3 </a> 
++ Lab Example Materials: <a class="btn" href='/files/lab2.html'> Lab 2 </a>; <a class="btn" href="/files/lab3.html"> Lab 3 </a> 
 
 ## Teaching Assistant
 
