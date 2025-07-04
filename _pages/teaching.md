@@ -6,7 +6,8 @@ author_profile: true
 
 ## Lab Instructor
 #### Ralph Bunche Summer Institute, Duke University, Summer 2023, 2024 
-+ Lab Example Materials: [Intro to R](file:///Users/suhyenbae/Dropbox/RBSI%202024/RLabs/ClassNotes/lab2.html); [Working with Data](file:///Users/suhyenbae/Dropbox/RBSI%202024/RLabs/ClassNotes/lab3.html) 
++ Lab Example Materials: [Intro to R](file:///Users/suhyenbae/Dropbox/RBSI%202024/RLabs/ClassNotes/lab2.html); [Working with Data](file:///Users/suhyenbae/Dropbox/RBSI%202024/RLabs/ClassNotes/lab3.html)
++ <a class="btn" href='/files/APSA_Aldrich-Bae_Affective Polarization.pdf'> Draft </a> <a class="btn" href="/files/APSA_2024_Fundamentals-9.pdf"> Slides </a> 
 
 ## Teaching Assistant
 
