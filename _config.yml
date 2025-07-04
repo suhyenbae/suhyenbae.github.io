@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Suhyen Bae"
 title_separator          : "-"
 name                     : &name "Suhyen Bae"
-description              : &description "Ph.D. Candidate"
+description              : &description "Postdoctoral Researcher"
 url                      : https://suhyenbae.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "suhyenbae/suhyenbae.github.io"
@@ -24,9 +24,9 @@ author:
   avatar           : "IMG_2023 Copy.jpeg"
   name             : "Suhyen Bae"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate"
-  location         : "Durham, NC"
-  employer         : "Duke University"
+  bio              : "Postdoctoral Researcher"
+  location         : "Providence, RI"
+  employer         : "Watson Institute, Brown University"
   uri              : # URL
   email            : "suhyen.bae@duke.edu" 
 
